@@ -8,11 +8,6 @@
   </a>
 </p>
 
-<div align="center" style="text-align:center">
-
-[![CI](https://github.com/block-wallet/extension/actions/workflows/ci.yml/badge.svg)](https://github.com/block-wallet/extension/actions/workflows/ci.yml) [![Release (manual)](https://github.com/block-wallet/extension/actions/workflows/build.yml/badge.svg)](https://github.com/block-wallet/extension/actions/workflows/build.yml) [![Release (automated)](https://github.com/block-wallet/extension/actions/workflows/release.yml/badge.svg)](https://github.com/block-wallet/extension/actions/workflows/release.yml)
-
-</div>
 
 <hr />
 
@@ -23,7 +18,7 @@ The first crypto wallet protects you on Web3 without any compromises. Stay safe 
 
 Supporting Ethereum, BNB Chain, Polygon, Avalanche, Fantom, and Arbitrum.
 
-BlockWallet is for you if:
+Bitindi Wallet is for you if:
 
 - You frequently use DApps and DEXes.
 - You want your tools working smoothly, every time.
