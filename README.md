@@ -1,8 +1,4 @@
-
-
-    ![Untitled design (9)](https://github.com/kumarbitindi/extension/assets/119077822/234d14ac-d22d-46ce-8519-6b46511f5f0e)
-
-
+![Untitled design (9)](https://github.com/kumarbitindi/extension/assets/119077822/76ef92e2-6a60-4648-9fc5-884765ac639f)
 
 # Bitindi Wallet - Extension
 
