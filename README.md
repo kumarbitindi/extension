@@ -1,15 +1,8 @@
-<br /> 
-<p align="center">
-  <a href="https://bitindi.com">
+
 
     ![Untitled design (9)](https://github.com/kumarbitindi/extension/assets/119077822/234d14ac-d22d-46ce-8519-6b46511f5f0e)
 
 
-  </a>
-</p>
-
-
-<hr />
 
 # Bitindi Wallet - Extension
 
