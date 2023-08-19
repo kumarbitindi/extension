@@ -1,10 +1,10 @@
 <br /> 
 <p align="center">
   <a href="https://bitindi.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/11839151/188500975-8cd95d07-c419-48aa-bb85-4200a6526f68.svg" />
-   
-    </picture>
+
+    ![Untitled design (9)](https://github.com/kumarbitindi/extension/assets/119077822/234d14ac-d22d-46ce-8519-6b46511f5f0e)
+
+
   </a>
 </p>
 
