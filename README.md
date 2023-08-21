@@ -3,14 +3,14 @@
 # Bitindi Wallet - Extension
 
 The most private, non-custodial cryptocurrency wallet
-The first crypto wallet protects you on Web3 without any compromises. Stay safe with BlockWallet.
+The first crypto wallet protects you on Web3 without any compromises. Stay safe with Bitindi Wallet.
 
 Supporting Ethereum, BNB Chain, Polygon, Avalanche, Fantom, and Arbitrum.
 
 Bitindi Wallet is for you if:
 
 - You frequently use DApps and DEXes.
-- You want your tools working smoothly, every time.
+- You want your tools to work smoothly, every time.
 - You care about your personal data and security online.
 - You are tired of overly-cluttered and confusing crypto wallets.
 
